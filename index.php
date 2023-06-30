@@ -115,7 +115,7 @@ body {
 
 
 <?php
-    require('/Applications/MAMP/htdocs/Activity1CST323/Activity1/Website/DB/DatabaseConnection.php');
+    //require('/Applications/MAMP/htdocs/Activity1CST323/Activity1/Website/DB/DatabaseConnection.php');
     // When form submitted, insert values into the database.
     if (isset($_REQUEST['username'])) {
         // removes backslashes
